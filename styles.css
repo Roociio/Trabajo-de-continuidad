@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+
+.mensaje{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.boton{
+    margin-top: 500px;
+    width: 60px;
+    height: 40px;
+    place-self: center;
+    border-radius: 30px;
+    margin-top: 10px;
+    
+}
